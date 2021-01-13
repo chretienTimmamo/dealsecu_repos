@@ -1,0 +1,221 @@
+# Translation of Plugins - Instant Images &#8211; One Click Unsplash Uploads - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Instant Images &#8211; One Click Unsplash Uploads - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-03 13:55:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Instant Images &#8211; One Click Unsplash Uploads - Development (trunk)\n"
+
+#: instant-images.php:220
+msgid "Squarish"
+msgstr "Quadratisch"
+
+#: instant-images.php:219
+msgid "Portrait"
+msgstr "Hochformat"
+
+#: instant-images.php:218
+msgid "Landscape"
+msgstr "Querformat"
+
+#: instant-images.php:217
+msgid "Image Orientation"
+msgstr "Bildausrichtung"
+
+#: instant-images.php:201
+msgid "Search for Toronto + Coffee etc..."
+msgstr "Suche nach Toronto + Coffee …"
+
+#: instant-images.php:216
+msgid "Upload"
+msgstr "Upload"
+
+#: instant-images.php:208
+msgid "Title"
+msgstr "Titel"
+
+#: instant-images.php:206
+msgid "Insert Into Post"
+msgstr "In Beitrag einfügen"
+
+#: instant-images.php:205
+msgid "Set as Featured Image"
+msgstr "Als Beitragsbild festlegen"
+
+#: admin/includes/unsplash-settings.php:24
+msgid "The latest Instant Images updates"
+msgstr "Die letzten Instant-Images-Aktualisierungen"
+
+#: instant-images.php:215
+msgid "Save"
+msgstr "Speichern"
+
+#: instant-images.php:214
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: instant-images.php:213
+msgid "Update and save image details prior to uploading"
+msgstr "Aktualisiere und speichere Bildinformationen vor dem Upload"
+
+#: instant-images.php:212
+msgid "Edit Image Details"
+msgstr "Bildinformationen bearbeiten"
+
+#: instant-images.php:210
+msgid "Caption"
+msgstr "Beschriftung"
+
+#: instant-images.php:209
+msgid "Alt Text"
+msgstr "Alt-Text"
+
+#: instant-images.php:207
+msgid "Filename"
+msgstr "Dateiname"
+
+#: admin/includes/unsplash-settings.php:23
+msgid "What's New"
+msgstr "Was gibt es Neues"
+
+#: instant-images.php:203
+msgid "Clear Search Results"
+msgstr "Leere Suchergebnisse"
+
+#: api/download.php:111
+msgid "Image successfully uploaded to the media library!"
+msgstr "Bild erfolgreich in die Mediathek hochgeladen!"
+
+#: admin/views/unsplash.php:16
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/views/unsplash.php:11
+msgid "One click photo uploads from %s"
+msgstr "Foto-Uploads mit einem Klick von %s"
+
+#: admin/includes/unsplash-settings.php:54
+msgid "Our Plugins"
+msgstr "Unsere Plugins"
+
+#: admin/includes/cta/permissions.php:16
+msgid "Please enable read/write access to the following directory"
+msgstr "Bitte aktiviere Lese-/Schreib-Rechte für das folgende Verzeichnis"
+
+#: admin/includes/cta/permissions.php:15
+msgid "Instant Images is unable to download and process images on your server."
+msgstr "Instant Images kann Bilder nicht auf deinen Server herunterladen und verarbeiten."
+
+#: instant-images.php:202
+msgid "images found for"
+msgstr "Bilder gefunden für"
+
+#: instant-images.php:199
+msgid "Popular"
+msgstr "Beliebt"
+
+#: instant-images.php:197
+msgid "New"
+msgstr "Neu"
+
+#: instant-images.php:192
+msgid "Downloading image..."
+msgstr "Lade Bild herunter …"
+
+#: instant-images.php:187
+msgid "Click Image to Upload"
+msgstr "Klicke für einen Upload auf das Bild"
+
+#. Author URI of the plugin
+msgid "https://connekthq.com"
+msgstr "https://connekthq.com"
+
+#. Author of the plugin
+msgid "Darren Cooney"
+msgstr "Darren Cooney"
+
+#. Description of the plugin
+msgid "One click photo uploads directly to your media library."
+msgstr "Foto-Uploads direkt in deine Mediathek mit einem Click."
+
+#. Plugin URI of the plugin
+msgid "https://connekthq.com/plugins/instant-images/"
+msgstr "https://connekthq.com/plugins/instant-images/"
+
+#. Plugin Name of the plugin
+#: instant-images.php:170 admin/admin.php:79 admin/admin.php:94
+msgid "Instant Images"
+msgstr "Instant Images"
+
+#: admin/includes/unsplash-settings.php:16
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: instant-images.php:200
+msgid "Load More Images"
+msgstr "Lade weitere Bilder"
+
+#: instant-images.php:198
+msgid "Oldest"
+msgstr "Älteste"
+
+#: admin/includes/settings.php:93
+msgid "Max Image Upload Height:"
+msgstr "Max. Bildhöhe Upload:"
+
+#: admin/includes/settings.php:79
+msgid "Max Image Upload Width:"
+msgstr "Max. Bildbreite Upload"
+
+#: admin/includes/unsplash-settings.php:7
+msgid "Manage your media upload settings"
+msgstr "Verwalte deine Einstellungen für den Medien-Upload"
+
+#: admin/includes/settings.php:35
+msgid "Upload Image Height"
+msgstr "Bildhöhe Upload"
+
+#: admin/includes/settings.php:26
+msgid "Upload Image Width"
+msgstr "Bildbreite Upload"
+
+#: admin/includes/cta/permissions.php:14
+msgid "Permissions Error"
+msgstr "Berechtigungs-Fehler"
+
+#: instant-images.php:196
+msgid "Please try adjusting your search criteria"
+msgstr "Bitte versuche, deine Suchkriterien anzupassen"
+
+#: instant-images.php:195
+msgid "Sorry, nothing matched your query"
+msgstr "Tut mir leid, nichts passt zu deiner Abfrage"
+
+#: instant-images.php:189
+msgid "View Full Size"
+msgstr "Volle Größe anzeigen"
+
+#: instant-images.php:188
+msgid "Click to Upload"
+msgstr "Klicke zum Hochladen"
+
+#: instant-images.php:186
+msgid "View All Photos by"
+msgstr "Zeige alle Fotos von"
+
+#: instant-images.php:185
+msgid "Photo by"
+msgstr "Foto von"
+
+#: instant-images.php:181
+msgid "Please check your Application ID."
+msgstr "Bitte überprüfe deine Anwendungs-ID."
+
+#: instant-images.php:180
+msgid "Error accessing Unsplash API"
+msgstr "Fehler bei Zugriff auf die Unsplash API"

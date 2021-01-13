@@ -1,0 +1,54 @@
+# Translation of Plugins - Spotlight Social Media Feeds - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Spotlight Social Media Feeds - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-30 23:18:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Spotlight Social Media Feeds - Stable (latest release)\n"
+
+#: core/MediaStore/MediaStore.php:148
+msgid "Failed to fetch media due to an error from Instagram's API: %s"
+msgstr "Impossibile recuperare il media per un errore delle API di Instagram: %s"
+
+#: freemius.php:45
+msgid "Help"
+msgstr "Aiuto"
+
+#: freemius.php:44
+msgid "License"
+msgstr "Licenza"
+
+#. Author of the plugin
+msgid "RebelCode"
+msgstr "RebelCode"
+
+#. Description of the plugin
+msgid "Easily embed beautiful Instagram feeds on your WordPress site."
+msgstr "Inserisci facilmente i feed di Instagram sul tuo sito WordPress."
+
+#. Author URI of the plugin
+msgid "https://rebelcode.com"
+msgstr "https://rebelcode.com"
+
+#. Plugin URI of the plugin
+msgid "https://spotlightwp.com"
+msgstr "https://spotlightwp.com"
+
+#: includes/init.php:280
+msgctxt "%1$s is the name of the plugin, %2$s is the required WP version"
+msgid "%1$s requires WordPress version %2$s or later"
+msgstr "%1$s richiede WordPress versione %2$s o successiva"
+
+#: includes/init.php:259
+msgctxt "%1$s is the name of the plugin, %2$s is the required PHP version"
+msgid "%1$s requires PHP version %2$s or later"
+msgstr "%1$s richiede PHP versione %2$s o successiva"
+
+#. Plugin Name of the plugin
+msgid "Spotlight - Social Media Feeds"
+msgstr "Spotlight - Social Media Feeds"
